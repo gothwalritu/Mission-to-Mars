@@ -32,12 +32,12 @@ We used the following resources in this challenge:
 
 ## Deliverable 1: Scraping the Mars Hemisphere images and title
   
-![Picture_1]( https://github.com/gothwalritu/Pewlett-Hackard-Analysis/blob/main/module_7_challenge_screenshots/EmployeeDB.png)
+![Picture_1](https://github.com/gothwalritu/Mission-to-Mars/blob/main/images/2022-08-26%20(2).png)
 
 ## Deliverable 2: Updating the web app with Mars’s Hemisphere Images and Titles
   
-![Picture_1]( https://github.com/gothwalritu/Pewlett-Hackard-Analysis/blob/main/module_7_challenge_screenshots/EmployeeDB.png)
+![Picture_2](https://github.com/gothwalritu/Mission-to-Mars/blob/main/images/2022-08-26%20(1).png)
   
 ## Deliverable 3: Adding bootstrap Components
   
-![Picture_1]( https://github.com/gothwalritu/Pewlett-Hackard-Analysis/blob/main/module_7_challenge_screenshots/EmployeeDB.png)
+![Picture_3](https://github.com/gothwalritu/Mission-to-Mars/blob/main/images/2022-08-26%20(3).png)
