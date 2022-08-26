@@ -85,7 +85,7 @@ def featured_image(browser):
     img_url = f'https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/{img_url_rel}'
 
     return img_url
-    
+
 #############################################################################################################
 
 def mars_facts():
@@ -113,11 +113,10 @@ def hemisphere_scrape(browser):
     url = 'https://marshemispheres.com/'
     browser.visit(url)
 
-    browser.find_by_text('Sample').first['href']
 
     # 3. Write code to retrieve the image urls and titles for each hemisphere.
 
-    hemisphere_image_urls = []  
+    hemisphere_image_url = []  
 
     for i in range (4):
         
@@ -134,11 +133,11 @@ def hemisphere_scrape(browser):
         hemispheres["image_url"] = image_url
         hemispheres["title"] = title
         
-        hemisphere_image_urls.append(hemispheres)
+        hemisphere_image_url.append(hemispheres)
         
         browser.back()
 
-    return hemishpere_image_urls
+    return hemisphere_image_url
            
 
 ########################################################################
