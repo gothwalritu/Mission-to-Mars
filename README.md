@@ -16,16 +16,27 @@ We created an index HTML file to showcase all the information that we scraped fr
 We used the following resources in this challenge:
   
 •	BeautifulSoup 
+  
 •	Numpy
+  
 •	Python
+  
 •	Pandas
+  
 •	Flask PyMongo
+  
 •	MongoDB
+  
 •	Splinter
+  
 •	Flask
+  
 •	Bootstrap 
+  
 •	Webdriver-manager
+  
 •	Html5lib
+  
 •	Selenium
 
 
